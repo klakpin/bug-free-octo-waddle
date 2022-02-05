@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.klakpin.bugfreeoctowaddle.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.klakpin.bugfreeoctowaddle.MyBundle
 
 class MyApplicationService {
 
